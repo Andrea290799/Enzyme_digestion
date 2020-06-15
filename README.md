@@ -7,17 +7,18 @@ The program obtain the number of DNA fragments and their length after this doubl
 in a simplified graphic form.
 
 
-### INSTALLATION
+#### INSTALATION
 
-Not required, just download and that is it.
+Not required,  just download and run. 
 
 
-### USAGE
 
-Usage: python enzyme_digestion.py [-h] <fasta_file>
+#### USAGE
 
-	        
--h: help
-fasta_file: a fasta format file containing the DNA sequence for digestion
 
-	
+	Usage: python enzyme_digestion.py [-h] <fasta_file>
+
+
+*-h: help* < br/>
+
+*fasta_file*: a fasta format file containing the DNA sequence for digestion
