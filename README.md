@@ -2,7 +2,7 @@
 
 
 
-This python script perform a double DNA digestion using the restriction enzymes abaI and abaII. 
+This python script perform a double DNA digestion using the restriction enzymes *abaI* and *abaII*. 
 The program obtain the number of DNA fragments and their length after this double enzyme digestion 
 in a simplified graphic form.
 
