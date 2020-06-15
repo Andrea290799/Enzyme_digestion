@@ -16,7 +16,7 @@ Not required, just download and that is it.
 Usage: python enzyme_digestion.py [-h] <fasta_file>
 
 	        
-        -h: help
-	fasta_file: a fasta format file containing the DNA sequence for digestion
+-h: help 
+fasta_file: a fasta format file containing the DNA sequence for digestion
 
 	
